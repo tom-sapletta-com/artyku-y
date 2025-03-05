@@ -17,9 +17,9 @@ AI może symulować empatię, ale jej nie czuje. Polskie firmy coraz śmielej wk
 
 - **[Analog Experience](https://analogexperience.com)** (Warszawa) - butikowa agencja eventowa, która stworzyła program "Digital Detox dla firm". Organizują dwudniowe wyjazdy integracyjne bez dostępu do technologii, gdzie zespoły pracują nad kreatywnymi wyzwaniami przy pomocy analogowych narzędzi. Ich klientami są głównie firmy technologiczne, których pracownicy paradoksalnie najbardziej potrzebują oderwania od cyfrowego świata.
 
-- **HumanTouch** (Wrocław) - firma szkoleniowa specjalizująca się w rozwijaniu inteligencji emocjonalnej u liderów tech. Założona przez psychologa i byłego CTO jednego z polskich jednorożców, łączy naukową wiedzę o emocjach z realiami branży technologicznej. [Strona HumanTouch](https://humantouch.io)
+- **[HumanTouch](https://humantouch.io)** (Wrocław) - firma szkoleniowa specjalizująca się w rozwijaniu inteligencji emocjonalnej u liderów tech. Założona przez psychologa i byłego CTO jednego z polskich jednorożców, łączy naukową wiedzę o emocjach z realiami branży technologicznej. 
 
-- **Storytel Polska** - chociaż jest częścią międzynarodowej grupy, polski oddział wyróżnia się produkcją audiobooków z udziałem znanych aktorów. W czasach, gdy AI może generować syntetyczne głosy, stawiają na autentyczność ludzkiej interpretacji jako kluczowy wyróżnik. [Storytel Polska](https://storytel.pl)
+- **[Storytel Polska](https://storytel.pl) Polska** - chociaż jest częścią międzynarodowej grupy, polski oddział wyróżnia się produkcją audiobooków z udziałem znanych aktorów. W czasach, gdy AI może generować syntetyczne głosy, stawiają na autentyczność ludzkiej interpretacji jako kluczowy wyróżnik. 
 
 ## Deficyt kreatywnego kombinowania: polscy interdyscyplinarni innowatorzy
 
