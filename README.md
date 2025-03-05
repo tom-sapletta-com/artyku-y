@@ -9,15 +9,13 @@ W świecie, gdzie AI generuje przekonujące, ale niekoniecznie prawdziwe treści
 
 - **[Pravda AI](https://pravda.org.pl)** (Warszawa) - startup założony przez byłych dziennikarzy śledczych, który stworzył narzędzie do weryfikacji informacji w czasie rzeczywistym. Ich algorytm porównuje dane z setkami zaufanych źródeł, a wyniki ostateczne weryfikują ludzie-eksperci. Zaczęli od współpracy z mediami, teraz wchodzą w sektor korporacyjny. 
 
-- **[TrustChain](https://trustchain.pl)** (Kraków) - firma wykorzystująca blockchain do tworzenia "cyfrowych paszportów" dla produktów premium. Dzięki ich rozwiązaniu konsumenci mogą prześledzić całą historię produktu - od surowców po dystrybucję - co staje się kluczowe w czasach, gdy AI może generować fałszywe certyfikaty i opinie. 
-
 - **[InfoSkan](https://infoskan.edu.pl)** (Poznań) - prowadzi warsztaty z krytycznego myślenia i weryfikacji informacji dla szkół i korporacji. Ich flagowy program "Nie daj się nabrać" został już wdrożony w ponad 100 szkołach w całej Polsce, ucząc młodzież rozpoznawania deepfake'ów i manipulacji informacyjnych. 
 
 ## Deficyt ludzkiego doświadczenia: emocje kontra sztuczna inteligencja
 
 AI może symulować empatię, ale jej nie czuje. Polskie firmy coraz śmielej wkraczają w tę niszę:
 
-- **Analog Experience** (Warszawa) - butikowa agencja eventowa, która stworzyła program "Digital Detox dla firm". Organizują dwudniowe wyjazdy integracyjne bez dostępu do technologii, gdzie zespoły pracują nad kreatywnymi wyzwaniami przy pomocy analogowych narzędzi. Ich klientami są głównie firmy technologiczne, których pracownicy paradoksalnie najbardziej potrzebują oderwania od cyfrowego świata. [Więcej o Analog Experience](https://analogexperience.com)
+- **[Analog Experience](https://analogexperience.com)** (Warszawa) - butikowa agencja eventowa, która stworzyła program "Digital Detox dla firm". Organizują dwudniowe wyjazdy integracyjne bez dostępu do technologii, gdzie zespoły pracują nad kreatywnymi wyzwaniami przy pomocy analogowych narzędzi. Ich klientami są głównie firmy technologiczne, których pracownicy paradoksalnie najbardziej potrzebują oderwania od cyfrowego świata.
 
 - **HumanTouch** (Wrocław) - firma szkoleniowa specjalizująca się w rozwijaniu inteligencji emocjonalnej u liderów tech. Założona przez psychologa i byłego CTO jednego z polskich jednorożców, łączy naukową wiedzę o emocjach z realiami branży technologicznej. [Strona HumanTouch](https://humantouch.io)
 
