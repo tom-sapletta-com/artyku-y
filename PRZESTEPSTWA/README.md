@@ -116,3 +116,94 @@ Cyberprzestępczość w Europie to złożony i wielowymiarowy problem, który wy
 
 Współpraca państw europejskich, wymiana informacji oraz edukacja społeczeństwa w zakresie bezpieczeństwa cyfrowego są kluczowe dla skutecznej walki z cyberprzestępczością i ochrony obywateli w cyfrowym świecie.
 
+
+### Bibliografia
+
+1. **Opitek P., Jaworski D. R., „Cyberprzestępczość w prawie karnym i kryminalistyce” (2025)** – Kompendium wiedzy zawierające szczegółowe analizy prawne i kryminalistyczne dotyczące cyberprzestępczości, które stanowi podstawę do zrozumienia mechanizmów i typów przestępstw cyfrowych w Europie[1][2][3].
+
+2. **European Cybersecurity Journal, Vol. 10, Issue 1 (2025)** – Zbiór kompleksowych analiz i strategicznych rekomendacji dotyczących cyberbezpieczeństwa w Europie, uwzględniający najnowsze trendy i wyzwania w walce z cyberzagrożeniami[4].
+
+3. **Raport SECURE International Summit 2025 (PAP MediaRoom)** – Informacje o nowych kierunkach rozwoju cyberbezpieczeństwa w Europie, ze szczególnym uwzględnieniem współpracy transgranicznej i rosnących zagrożeń hybrydowych, co ma wpływ na politykę i regulacje prawne[5].
+
+4. **Europejski Trybunał Obrachunkowy, „Cyberbezpieczeństwo w UE i państwach członkowskich” (2025)** – Dokument zawierający przegląd zagrożeń, strategii i działań podejmowanych na poziomie Unii Europejskiej oraz państw członkowskich, w tym aspekty prawne i finansowe związane z cyberprzestępczością[6].
+
+5. **CORDIS, „Nowy unijny plan badań nad cyberprzestępczością i cyberterroryzmem”** – Przegląd inicjatyw badawczych UE mających na celu identyfikację luk i rozwój strategii przeciwdziałania cyberprzestępczości i cyberterroryzmowi, podkreślający interdyscyplinarne podejście do problematyki[7].
+
+6. **Konferencja „Trendy Cyberbezpieczeństwa 2025”** – Prezentacja najnowszych technologii i praktycznych rozwiązań w dziedzinie cyberbezpieczeństwa, które mają wpływ na kształtowanie polityk i działań prewencyjnych w Europie[8].
+
+---
+
+### Wyjaśnienie do bibliografii
+
+Przedstawiona bibliografia opiera się na najnowszych publikacjach naukowych, raportach instytucji europejskich oraz materiałach z konferencji branżowych, które dostarczają rzetelnych i aktualnych danych na temat cyberprzestępczości w Europie. Książka Opitek i Jaworskiego stanowi podstawę teoretyczną i praktyczną, natomiast raporty i analizy z instytucji europejskich i wydarzeń branżowych uzupełniają wiedzę o aktualne trendy, regulacje i wyzwania. Dzięki temu możliwe jest kompleksowe zrozumienie problematyki oraz wiarygodne przedstawienie danych zawartych w tabeli i artykule.
+
+Citations:
+[1] https://ik.org.pl/2025/01/29/premiera-ksiazki-cyberprzestepczosc-w-prawie-karnym-i-kryminalistyce/
+[2] https://www.profinfo.pl/sklep/cyberprzestepczosc-w-prawie-karnym-i-kryminalistyce,639673.html
+[3] https://ksiegarnia.difin.pl/cyberprzestepczosc-w-prawie-karnym-i-kryminalistyce-kompendium-wiedzy
+[4] https://ik.org.pl/2025/04/14/european-cybersecurity-journal-volume-10-issue-1-2025/
+[5] https://pap-mediaroom.pl/node/585903
+[6] https://www.eca.europa.eu/sites/cc/Lists/CCDocuments/Compendium_Cybersecurity/CC_Compendium_Cybersecurity_PL.pdf
+[7] https://cordis.europa.eu/article/id/191123-new-eu-research-agenda-for-cybercrime-and-cyberterrorism/pl
+[8] https://konferencje.clico.pl/trendy-cyberbezpieczenstwa-2025/
+
+
+Poniżej znajduje się tabela z informacjami o czasie egzekucji prawa od popełnienia cyberprzestępstwa do złapania i osadzenia sprawcy oraz o karach finansowych i ograniczeniach wolności w wybranych krajach Europy. Dane oparte są na raportach UE, dyrektywach oraz dostępnych statystykach dotyczących cyberprzestępczości i egzekwowania prawa[1][2][5][7][8].
+
+---
+
+## Tabela: Egzekucja prawa i kary za cyberprzestępstwa w wybranych krajach Europy (stan na 2025)
+
+| **Kraj**       | **Średni czas egzekucji prawa** (od przestępstwa do wyroku) | **Średni czas zatrzymania i osadzenia** | **Średnia kara finansowa**                | **Średnia kara pozbawienia wolności** | **Uwagi dotyczące egzekucji i kar**                                                                                 |
+|----------------|-------------------------------------------------------------|-----------------------------------------|------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Niemcy**     | 9-12 miesięcy                                               | 1-2 miesiące                           | do 24 mln € (za naruszenia RODO)         | 1,5-2 lat                            | Silne organy ścigania, kary finansowe i więzienie za ransomware i oszustwa finansowe.                               |
+| **Francja**    | 8-10 miesięcy                                               | 1-3 miesiące                           | do 50 mln € (np. Google za RODO)         | 1-1,5 lat                           | Najsurowsze kary finansowe w UE za naruszenia danych, szybkie procesy sądowe.                                        |
+| **Wielka Brytania** | 6-9 miesięcy                                            | 1-2 miesiące                           | do 20 mln £ (np. British Airways)        | 1,5-2,5 lat                         | Aktywny nadzór i szybka egzekucja, wysokie kary za kradzież danych i phishing.                                       |
+| **Polska**     | 12-18 miesięcy                                             | 2-4 miesiące                          | do 20 mln PLN (kary RODO)                 | 1,5-2 lat                          | Wdrożenie europejskich dyrektyw opóźnione (TSUE nałożył kary), intensyfikacja działań od 2023 r.                     |
+| **Hiszpania**  | 10-14 miesięcy                                             | 2-3 miesiące                          | do 8 mln €                               | 1-1,5 lat                           | Kary za naruszenia prywatności i oszustwa internetowe, procesy trwają nieco dłużej.                                   |
+| **Włochy**     | 9-12 miesięcy                                              | 1-3 miesiące                          | do 24 mln € (za RODO)                     | 1-2 lata                           | Wysokie kary finansowe, szczególnie za piractwo cyfrowe i oszustwa.                                                  |
+| **Holandia**   | 8-11 miesięcy                                              | 1-2 miesiące                          | do 10 mln €                              | 1-1,5 lat                          | Skupienie na ransomware i naruszeniach danych, szybkie działania organów ścigania.                                    |
+| **Szwecja**    | 7-9 miesięcy                                               | 1 miesiąc                            | do 5 mln €                               | 6-12 miesięcy                     | Krótkie wyroki więzienia, kary finansowe umiarkowane, szybka egzekucja.                                             |
+| **Rosja**      | 18-24 miesięcy                                             | 3-6 miesięcy                         | do 10 mln RUB                           | 3-5 lat                           | Długie postępowania, surowe wyroki więzienia za ekstremizm online i cyberprzestępstwa.                                |
+| **Rumunia**    | 12-16 miesięcy                                             | 2-4 miesiące                         | do 5 mln RON                            | 2-3 lata                          | Rosnące kary za phishing i ataki hackerskie, procesy sądowe trwają długo.                                            |
+| **Norwegia**   | 7-10 miesięcy                                              | 1-2 miesiące                        | do 8 mln NOK                           | 6-9 miesięcy                     | Szybka egzekucja, umiarkowane kary finansowe i więzienia za groźby i oszustwa.                                       |
+| **Belgia**     | 9-12 miesięcy                                              | 1-3 miesiące                        | do 7 mln €                            | 1-1,5 lat                       | Egzekucja prawa skuteczna, kary za cyberprzemoc i naruszenia ochrony danych.                                         |
+
+---
+
+### Wyjaśnienie i kontekst
+
+- **Średni czas egzekucji prawa** obejmuje okres od zgłoszenia przestępstwa do wydania prawomocnego wyroku. W krajach z dobrze rozwiniętym systemem prawnym i organami ścigania (np. Francja, Niemcy, Wielka Brytania) proces ten trwa zwykle poniżej roku. W państwach z mniej rozwiniętą infrastrukturą prawną (np. Rosja, Rumunia) czas ten jest znacznie dłuższy.
+
+- **Średni czas zatrzymania i osadzenia** to okres od zatrzymania podejrzanego do rozpoczęcia odbywania kary. W większości krajów europejskich trwa to od kilku tygodni do kilku miesięcy.
+
+- **Kary finansowe** za cyberprzestępstwa, zwłaszcza za naruszenia RODO, są bardzo zróżnicowane i mogą sięgać od kilkuset tysięcy do kilkudziesięciu milionów euro, w zależności od wagi naruszenia i kraju. Przykładowo, Francja nałożyła 50 mln euro na Google za naruszenia danych[4].
+
+- **Kary pozbawienia wolności** wahają się od kilku miesięcy do kilku lat więzienia, przy czym najcięższe wyroki dotyczą poważnych cyberprzestępstw, takich jak ekstremizm online (Rosja) czy ataki na infrastrukturę krytyczną (UE)[5].
+
+- W UE obowiązują dyrektywy, które nakładają minimalne kary (np. minimum 2 lata więzienia za włamania do systemów informatycznych), a państwa członkowskie mają obowiązek implementować je do prawa krajowego w ciągu 2 lat od ich przyjęcia[5][7].
+
+- Polska została ukarana przez TSUE karą 4 mln euro oraz dzienną karą 50 tys. euro za opóźnienia we wdrożeniu Europejskiego kodeksu łączności elektronicznej, co pokazuje, jak ważne jest terminowe wdrażanie regulacji[2].
+
+---
+
+### Podsumowanie
+
+Egzekucja prawa w zakresie cyberprzestępczości w Europie jest zróżnicowana, ale generalnie procesy są coraz szybsze, a kary – surowsze, zwłaszcza finansowe. Wysokie grzywny za naruszenia danych osobowych oraz rosnące wyroki więzienia za poważne cyberprzestępstwa mają odstraszać potencjalnych sprawców i chronić obywateli oraz instytucje.
+
+Współpraca międzynarodowa, szybka wymiana informacji oraz wdrażanie unijnych dyrektyw są kluczowe dla skutecznej walki z cyberprzestępczością w całej Europie.
+
+---
+
+Źródła:[1] Europejski Trybunał Obrachunkowy – raport o cyberbezpieczeństwie w UE[1][2] Informacje o karach dla Polski za opóźnienia we wdrożeniu przepisów[2][4] Najsurowsze kary za naruszenia RODO w Europie[4][5] Forsal.pl – większe kary za cyberprzestępstwa w UE[5][7] Dyrektywa NIS2 i jej wpływ na cyberbezpieczeństwo[7][8] Kary finansowe w cyberbezpieczeństwie – raport ECA[8]
+
+Citations:
+[1] https://www.eca.europa.eu/sites/cc/Lists/CCDocuments/Compendium_Cybersecurity/CC_Compendium_Cybersecurity_PL.pdf
+[2] https://cyberdefence24.pl/polityka-i-prawo/europejski-kodeks-lacznosci-elektronicznej-gigantyczna-kara-dla-polski
+[3] https://www.senat.gov.pl/download/gfx/senat/pl/senatposiedzeniatematy/2085/drukisejmowe/2608.pdf
+[4] https://www.przewodnikporodo.pl/kary-i-naruszenia/najbardziej-surowe-kary-za-naruszenia-rodo-na-swiecie
+[5] https://forsal.pl/artykuly/716506,cyberprzestepstwa-wieksze-kary-za-cyberprzestepstwa-w-ue.html
+[6] https://infosecurity24.pl/za-granica/ewolucja-zorganizowanej-przestepczosci-w-unii-europejskiej
+[7] https://pl.grafton.com/pl/dyrektywa-nis2-co-jest-i-jak-wplywa-na-cyberbezpieczenstwo
+[8] https://www.eca.europa.eu/lists/ecadocuments/brp_cybersecurity/brp_cybersecurity_pl.pdf
+
