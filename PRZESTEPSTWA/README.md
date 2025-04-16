@@ -1,27 +1,27 @@
-### **Poprawiona tabela: Najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi w krajach Europy**
+# Najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi w krajach Europy
 
 ## Tabela: Najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi w krajach Europy
 
 | **Kraj** | **Najczęstsze przestępstwo #1** | **Najczęstsze przestępstwo #2** | **Najczęstsze przestępstwo #3** | **Średnia kara finansowa** | **Średnia kara więzienia** | **% wszystkich wyroków cyfrowych** |
 |----------|--------------------------------|--------------------------------|--------------------------------|-----------------|-----------------|-----------------------------------|
 | **Niemcy** | Oszustwa finansowe online | Naruszenia ochrony danych osobowych | Dystrybucja ransomware | 8.500€ | 1,8 lat | 31% |
-| **Francja** | Phishing | Naruszenia ochrony danych osobowych | Mowa nienawiści online | 7.200€ | 1,3 lat | 29% |
+| **Francja** | Phishing | Naruszenia ochrony danych osobowych | **Mowa nienawiści** | 7.200€ | 1,3 lat | 29% |
 | **Wielka Brytania** | Oszustwa finansowe | Nękanie online | Naruszenia bezpieczeństwa danych | 12.500£ | 2,1 lat | 38% |
 | **Włochy** | Oszustwa finansowe | Piractwo cyfrowe | Phishing | 6.800€ | 1,6 lat | 26% |
-| **Hiszpania** | Oszustwa internetowe | Naruszenia prywatności | Nękanie online | 5.500€ | 1,2 lat | 24% |
+| **Hiszpania** | Oszustwa internetowe | Naruszenia prywatności | **Nękanie** | 5.500€ | 1,2 lat | 24% |
 | **Polska** | Ransomware | Naruszenia praw autorskich | Ataki hackerskie | 15.000zł | 1,8 lat | 35% |
-| **Czechy** | Oszustwa finansowe | Naruszenia ochrony danych osobowych | Nękanie online | 120.000CZK | 1,5 lat | 28% |
-| **Szwecja** | Naruszenia ochrony danych osobowych | Oszustwa internetowe | Groźby online | 95.000SEK | 8 miesięcy | 33% |
+| **Czechy** | Oszustwa finansowe | Naruszenia ochrony danych osobowych | **Nękanie** | 120.000CZK | 1,5 lat | 28% |
+| **Szwecja** | Naruszenia ochrony danych osobowych | Oszustwa internetowe | **Groźby** | 95.000SEK | 8 miesięcy | 33% |
 | **Dania** | Naruszenia ochrony danych osobowych | Oszustwa finansowe | Rozpowszechnianie nielegalnych treści | 85.000DKK | 10 miesięcy | 36% |
-| **Finlandia** | Naruszenia danych | Oszustwa finansowe | Nękanie online | 9.200€ | 9 miesięcy | 31% |
-| **Norwegia** | Naruszenia prywatności danych | Oszustwa internetowe | Groźby online | 105.000NOK | 7 miesięcy | 39% |
+| **Finlandia** | Naruszenia danych | Oszustwa finansowe | **Nękanie** | 9.200€ | 9 miesięcy | 31% |
+| **Norwegia** | Naruszenia prywatności danych | Oszustwa internetowe | **Groźby** | 105.000NOK | 7 miesięcy | 39% |
 | **Rosja** | Ekstremizm online | Oszustwa finansowe | Nielegalne uzyskanie dostępu do danych | 280.000RUB | 4,5 lat | 42% |
-| **Węgry** | Oszustwa internetowe | Naruszenia praw autorskich | Nękanie online | 950.000HUF | 1,3 lat | 26% |
+| **Węgry** | Oszustwa internetowe | Naruszenia praw autorskich | **Nękanie** | 950.000HUF | 1,3 lat | 26% |
 | **Rumunia** | Oszustwa bankowe | Phishing | Ataki hackerskie | 25.000RON | 2,5 lat | 45% |
 | **Grecja** | Oszustwa internetowe | Naruszenia prywatności | Piractwo cyfrowe | 4.800€ | 1,1 lat | 22% |
 | **Holandia** | Naruszenia ochrony danych osobowych | Oszustwa finansowe | Ransomware | 11.500€ | 1,5 lat | 34% |
-| **Belgia** | Oszustwa finansowe | Cyberprzemoc | Naruszenia ochrony danych osobowych | 8.200€ | 1,2 lat | 30% |
-| **Austria** | Oszustwa finansowe | Naruszenia danych | Mowa nienawiści online | 7.600€ | 1,4 lat | 28% |
+| **Belgia** | Oszustwa finansowe | **Cyberprzemoc** | Naruszenia ochrony danych osobowych | 8.200€ | 1,2 lat | 30% |
+| **Austria** | Oszustwa finansowe | Naruszenia danych | **Mowa nienawiści** | 7.600€ | 1,4 lat | 28% |
 | **Szwajcaria** | Oszustwa bankowe | Naruszenia prywatności | Phishing | 13.500CHF | 11 miesięcy | 27% |
 
 ### Regionalne tendencje:
