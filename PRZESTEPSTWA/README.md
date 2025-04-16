@@ -34,7 +34,7 @@ Szczególnie alarmujący jest przykład Rosji, gdzie "ekstremizm online" - niezw
 |----------|--------------------------------|--------------------------------|--------------------------------|-----------------|-----------------|-----------------------------------|
 | **Niemcy** | Oszustwa finansowe online | Naruszenia ochrony danych osobowych | Dystrybucja ransomware | 8.500€ | 1,8 lat | 31% |
 | **Francja** | Phishing | Naruszenia ochrony danych osobowych | **Mowa nienawiści** | 7.200€ | 1,3 lat | 29% |
-| **Wielka Brytania** | Oszustwa finansowe | Nękanie online | Naruszenia bezpieczeństwa danych | 12.500£ | 2,1 lat | 38% |
+| **Wielka Brytania** | Oszustwa finansowe | **Nękanie** | Naruszenia bezpieczeństwa danych | 12.500£ | 2,1 lat | 38% |
 | **Włochy** | Oszustwa finansowe | Piractwo cyfrowe | Phishing | 6.800€ | 1,6 lat | 26% |
 | **Hiszpania** | Oszustwa internetowe | Naruszenia prywatności | **Nękanie** | 5.500€ | 1,2 lat | 24% |
 | **Polska** | Ransomware | Naruszenia praw autorskich | Ataki hackerskie | 15.000zł | 1,8 lat | 35% |
@@ -43,7 +43,7 @@ Szczególnie alarmujący jest przykład Rosji, gdzie "ekstremizm online" - niezw
 | **Dania** | Naruszenia ochrony danych osobowych | Oszustwa finansowe | Rozpowszechnianie nielegalnych treści | 85.000DKK | 10 miesięcy | 36% |
 | **Finlandia** | Naruszenia danych | Oszustwa finansowe | **Nękanie** | 9.200€ | 9 miesięcy | 31% |
 | **Norwegia** | Naruszenia prywatności danych | Oszustwa internetowe | **Groźby** | 105.000NOK | 7 miesięcy | 39% |
-| **Rosja** | Ekstremizm online | Oszustwa finansowe | Nielegalne uzyskanie dostępu do danych | 280.000RUB | 4,5 lat | 42% |
+| **Rosja** | **Ekstremizm online** | Oszustwa finansowe | Nielegalne uzyskanie dostępu do danych | 280.000RUB | 4,5 lat | 42% |
 | **Węgry** | Oszustwa internetowe | Naruszenia praw autorskich | **Nękanie** | 950.000HUF | 1,3 lat | 26% |
 | **Rumunia** | Oszustwa bankowe | Phishing | Ataki hackerskie | 25.000RON | 2,5 lat | 45% |
 | **Grecja** | Oszustwa internetowe | Naruszenia prywatności | Piractwo cyfrowe | 4.800€ | 1,1 lat | 22% |
