@@ -2,12 +2,14 @@
 
 ## Spis treści
 - [Wprowadzenie](#wprowadzenie)
+- [Niepokojący trend: Od cyberprzestępstw technicznych do ideologicznych](#niepokojący-trend-od-cyberprzestępstw-technicznych-do-ideologicznych)
 - [Najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi](#najczęstsze-cyberprzestępstwa-skutkujące-wyrokami-skazującymi)
   - [Tabela: Najczęstsze cyberprzestępstwa w krajach Europy](#tabela-najczęstsze-cyberprzestępstwa-w-krajach-europy)
   - [Regionalne tendencje](#regionalne-tendencje)
 - [Najczęstsze rodzaje cyberprzestępstw w Europie](#najczęstsze-rodzaje-cyberprzestępstw-w-europie)
 - [Różnice regionalne w Europie](#różnice-regionalne-w-europie)
 - [Kary i ich skuteczność](#kary-i-ich-skuteczność)
+- [Ryzyko nadużyć w represyjnym systemie prawnym](#ryzyko-nadużyć-w-represyjnym-systemie-prawnym)
 - [Egzekucja prawa w krajach europejskich](#egzekucja-prawa-w-krajach-europejskich)
   - [Tabela: Egzekucja prawa i kary za cyberprzestępstwa](#tabela-egzekucja-prawa-i-kary-za-cyberprzestępstwa)
   - [Wyjaśnienie i kontekst](#wyjaśnienie-i-kontekst)
@@ -17,6 +19,12 @@
 ## Wprowadzenie
 
 W dobie cyfryzacji i rosnącej zależności od technologii informatycznych, cyberprzestępczość stała się jednym z najpoważniejszych wyzwań dla państw na całym świecie. Europa, jako region o rozwiniętej infrastrukturze cyfrowej, nie jest wolna od zagrożeń związanych z cyberatakami. Poniższa analiza prezentuje najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi w krajach Europy wraz ze średnimi karami finansowymi oraz długością wyroków pozbawienia wolności, a także dane dotyczące egzekucji prawa w tym zakresie.
+
+## Niepokojący trend: Od cyberprzestępstw technicznych do ideologicznych
+
+Analiza danych dotyczących cyberprzestępczości w Europie ujawnia niepokojący trend: stopniowe przesunięcie od ścigania przestępstw stricte technicznych (jak oszustwa finansowe czy naruszenia bezpieczeństwa danych) w kierunku penalizacji treści i wypowiedzi online. Kategorie takie jak "mowa nienawiści", "nękanie" czy "ekstremizm online" stają się coraz częściej podstawą do skazań, co rodzi pytania o granice ingerencji państwa w wolność słowa w przestrzeni cyfrowej.
+
+Szczególnie alarmujący jest przykład Rosji, gdzie "ekstremizm online" - niezwykle pojemna kategoria - stanowi najczęstsze cyberprzestępstwo skutkujące wyrokami skazującymi. W praktyce pod tym terminem kryje się często krytyka władz czy wypowiedzi polityczne niezgodne z oficjalną linią rządu. Niepokojące jest to, że podobne tendencje zaczynają być widoczne również w innych krajach europejskich, gdzie pojęcia takie jak "mowa nienawiści" czy "nękanie online" nie zawsze mają jasne i precyzyjne definicje prawne.
 
 ## Najczęstsze cyberprzestępstwa skutkujące wyrokami skazującymi
 
@@ -70,21 +78,29 @@ Warto również zwrócić uwagę na rosnącą rolę **ransomware** – złośliw
 
 ## Różnice regionalne w Europie
 
-- **Europa Zachodnia** charakteryzuje się dominacją oszustw finansowych oraz naruszeń ochrony danych, przy umiarkowanych karach finansowych i stosunkowo krótkich wyrokach więzienia.
+- **Europa Zachodnia** charakteryzuje się dominacją oszustw finansowych oraz naruszeń ochrony danych, przy umiarkowanych karach finansowych i stosunkowo krótkich wyrokach więzienia. Jednocześnie w krajach jak Francja, Belgia czy Austria obserwuje się rosnącą liczbę spraw dotyczących "mowy nienawiści" i "cyberprzemocy", co budzi obawy o potencjalne nadużycia w interpretacji tych pojęć.
 
-- **Europa Północna** wyróżnia się największym odsetkiem spraw dotyczących naruszeń ochrony danych i prywatności, z krótszymi wyrokami pozbawienia wolności, ale wyższymi karami finansowymi.
+- **Europa Północna** wyróżnia się największym odsetkiem spraw dotyczących naruszeń ochrony danych i prywatności, z krótszymi wyrokami pozbawienia wolności, ale wyższymi karami finansowymi. W Szwecji i Norwegii "groźby" znalazły się w pierwszej trójce najczęstszych cyberprzestępstw, co odzwierciedla zwiększoną ochronę przed przemocą online, ale również stwarza ryzyko nadinterpretacji.
 
-- **Europa Wschodnia** (Rosja, Białoruś, Ukraina) zmaga się z problemem cyberprzestępstw związanych z ekstremizmem online, często obejmującym krytykę władz, co skutkuje najdłuższymi wyrokami więzienia w regionie.
+- **Europa Wschodnia** (Rosja, Białoruś, Ukraina) zmaga się z problemem cyberprzestępstw związanych z ekstremizmem online, często obejmującym krytykę władz, co skutkuje najdłuższymi wyrokami więzienia w regionie. Jest to modelowy przykład wykorzystania przepisów o cyberprzestępczości jako narzędzia represji politycznych.
 
-- **Europa Południowa** dominuje w oszustwach internetowych i piractwie cyfrowym, przy stosunkowo niższych karach finansowych.
+- **Europa Południowa** dominuje w oszustwach internetowych i piractwie cyfrowym, przy stosunkowo niższych karach finansowych. Choć kategorie ideologiczne są tu mniej widoczne, w Hiszpanii nękanie online znalazło się już w czołówce ściganych przestępstw.
 
-- **Europa Środkowo-Wschodnia** odnotowuje wysoki odsetek oszustw internetowych i ataków hackerskich, zróżnicowanych pod względem wymierzanych kar.
+- **Europa Środkowo-Wschodnia** odnotowuje wysoki odsetek oszustw internetowych i ataków hackerskich, zróżnicowanych pod względem wymierzanych kar. W Polsce, Czechach i na Węgrzech rośnie liczba spraw związanych z nękaniem i naruszeniami praw autorskich, co może zwiastować zbliżanie się do modelu wschodnioeuropejskiego w kwestii regulacji treści.
 
 ## Kary i ich skuteczność
 
 Średnie kary finansowe wahają się od kilku tysięcy euro do kilkudziesięciu tysięcy złotych czy koron, w zależności od kraju i rodzaju przestępstwa. Wyroki więzienia są zróżnicowane, od kilku miesięcy do ponad czterech lat, co odzwierciedla różnice w systemach prawnych i podejściu do cyberprzestępczości.
 
-Wysokość kar i długość wyroków mają na celu zarówno odstraszenie potencjalnych przestępców, jak i wymierzenie sprawiedliwości ofiarom. Jednak ze względu na dynamiczny rozwój technologii i metod ataków, organy ścigania i sądy muszą stale aktualizować swoje strategie i narzędzia prawne.
+Co niepokojące, najsurowsze kary więzienia (średnio 4,5 roku w Rosji) dotyczą przestępstw związanych z "ekstremizmem online" - kategorią o niezwykle szerokim i często arbitralnym zakresie. W porównaniu, wyroki za oszustwa finansowe czy ataki ransomware, które powodują wymierne szkody ekonomiczne, są zazwyczaj znacznie łagodniejsze. Wskazuje to na priorytetyzację kontroli nad dyskursem publicznym ponad ochroną bezpieczeństwa ekonomicznego obywateli.
+
+## Ryzyko nadużyć w represyjnym systemie prawnym
+
+Obserwowany trend penalizacji treści i wypowiedzi online rodzi poważne obawy o potencjalne nadużycia ze strony państw europejskich. Doświadczenia Rosji pokazują, jak łatwo przepisy dotyczące "ekstremizmu online" mogą zostać wykorzystane jako narzędzie do tłumienia głosów opozycyjnych i ograniczania wolności słowa. Niepokojące jest to, że podobne mechanizmy prawne są wprowadzane w całej Europie, często pod pozorem ochrony przed mową nienawiści czy cyberprzemocą.
+
+Standardy Unii Europejskiej w zakresie regulacji treści online, choć formalnie mają na celu ochronę użytkowników, wprowadzają szereg pojemnych kategorii prawnych, które mogą być różnie interpretowane w zależności od kontekstu politycznego. Przykładowo, pojęcie "mowy nienawiści" nie ma jednolitej definicji prawnej w różnych krajach członkowskich, co prowadzi do sytuacji, w której ta sama wypowiedź może być legalna w jednym kraju UE, a karana więzieniem w innym.
+
+Szczególnie ryzykowne wydaje się dążenie do ustandaryzowania i skodyfikowania tych przepisów na poziomie unijnym. Choć harmonizacja prawa jest co do zasady pozytywna, w przypadku regulacji dotyczących wypowiedzi online może prowadzić do systemowego ograniczania swobody ekspresji i debaty publicznej w całej Europie. Istnieje realne ryzyko, że mechanizmy prawne stworzone do walki z rzeczywistymi zagrożeniami (jak terroryzm czy przemoc wobec mniejszości) zostaną z czasem wykorzystane do cenzurowania niewygodnych politycznie poglądów czy krytyki instytucji państwowych.
 
 ## Egzekucja prawa w krajach europejskich
 
@@ -121,11 +137,13 @@ Wysokość kar i długość wyroków mają na celu zarówno odstraszenie potencj
 
 ## Podsumowanie
 
-Cyberprzestępczość w Europie to złożony i wielowymiarowy problem, który wymaga skoordynowanych działań na poziomie krajowym i międzynarodowym. Prezentowane dane pokazują, że chociaż oszustwa finansowe i naruszenia ochrony danych pozostają najczęstszymi przestępstwami, rośnie znaczenie nowych zagrożeń, takich jak ransomware czy cyberprzemoc.
+Cyberprzestępczość w Europie to złożony i wielowymiarowy problem, który wymaga skoordynowanych działań na poziomie krajowym i międzynarodowym. Prezentowane dane pokazują jednak niepokojący trend: choć oszustwa finansowe i naruszenia ochrony danych pozostają najczęstszymi przestępstwami, rośnie znaczenie kategorii przestępstw związanych z treścią komunikacji i wyrażaniem opinii online, takich jak "mowa nienawiści", "nękanie" czy "ekstremizm".
 
-Egzekucja prawa w zakresie cyberprzestępczości w Europie jest zróżnicowana, ale generalnie procesy są coraz szybsze, a kary – surowsze, zwłaszcza finansowe. Wysokie grzywny za naruszenia danych osobowych oraz rosnące wyroki więzienia za poważne cyberprzestępstwa mają odstraszać potencjalnych sprawców i chronić obywateli oraz instytucje.
+Ten trend może prowadzić do niebezpiecznych konsekwencji dla wolności słowa i debaty publicznej w Europie. Przykład Rosji, gdzie przepisy dotyczące "ekstremizmu online" służą jako narzędzie represji politycznych, powinien być ostrzeżeniem dla pozostałych krajów europejskich. Istnieje realne ryzyko, że w miarę jak Unia Europejska dąży do ustandaryzowania przepisów dotyczących cyberprzestępczości, pojemne kategorie prawne dotyczące "mowy nienawiści" czy "nękania" mogą zostać wykorzystane do systematycznego ograniczania swobody wypowiedzi i krytyki władz.
 
-Współpraca międzynarodowa, wymiana informacji oraz edukacja społeczeństwa w zakresie bezpieczeństwa cyfrowego są kluczowe dla skutecznej walki z cyberprzestępczością i ochrony obywateli w cyfrowym świecie.
+Jednocześnie egzekucja prawa w zakresie cyberprzestępczości w Europie staje się coraz bardziej efektywna, z szybszymi procesami i surowszymi karami. To samo w sobie jest pozytywne, ale wymaga zachowania równowagi między skutecznym ściganiem rzeczywistych zagrożeń (jak oszustwa czy ataki ransomware) a ochroną podstawowych praw i wolności obywatelskich.
+
+Wyzwaniem dla społeczeństw europejskich w nadchodzących latach będzie wypracowanie takiego modelu regulacji cyberprzestrzeni, który skutecznie chroni przed realnymi zagrożeniami, jednocześnie nie tworząc mechanizmów potencjalnej opresji i cenzury. Wymaga to nie tylko współpracy międzynarodowej i wymiany informacji, ale także aktywnego zaangażowania organizacji społeczeństwa obywatelskiego w monitorowanie i kształtowanie polityk dotyczących cyberbezpieczeństwa.
 
 ## Przypisy
 
